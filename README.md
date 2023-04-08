@@ -1,5 +1,7 @@
 # Stopwatch
-Simple Python/Tkinter app to run a stopwatch in the right-top corner.
+Simple Python/Tkinter stopwatch that runs in the right-top corner of your screen.
+
+![](https://raw.githubusercontent.com/antorix/Stopwatch/master/screenshot.png)
 
 Control:
 
